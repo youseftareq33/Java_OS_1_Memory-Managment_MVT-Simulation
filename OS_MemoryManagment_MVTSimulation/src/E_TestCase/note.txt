@@ -1,0 +1,2 @@
+memory size=2500
+os reserving=400
